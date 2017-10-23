@@ -37,7 +37,7 @@
     
     self.title = @"JSQMessages";
 
-    self.inputToolbar.contentView.textView.pasteDelegate = self;
+    self.inputToolbar.contentView.textView.jsqPasteDelegate = self;
     
     /**
      *  Load up our fake data for the demo
