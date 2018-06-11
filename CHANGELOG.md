@@ -21,6 +21,23 @@ This release closes the [8.0.0 milestone](https://github.com/jessesquires/JSQMes
 
 - Fixed a number of issues regarding keyboard handling (#1063, #1529, #799, #941, #1299)
 
+7.3.5
+-----
+
+This libary is being deprecated.
+
+7.3.4
+-----
+
+- [Milestone](https://github.com/jessesquires/JSQMessagesViewController/issues?q=milestone%3A7.3.4+is%3Aclosed)
+- [GitHub release notes](https://github.com/jessesquires/JSQMessagesViewController/releases/tag/7.3.4)
+
+7.3.3
+-----
+
+- [Milestone](https://github.com/jessesquires/JSQMessagesViewController/issues?q=milestone%3A7.3.3+is%3Aclosed)
+- [GitHub release notes](https://github.com/jessesquires/JSQMessagesViewController/releases/tag/7.3.3)
+
 7.3.2
 -----
 
