@@ -4,9 +4,13 @@ PODS:
 DEPENDENCIES:
   - JSQSystemSoundPlayer (~> 2.0)
 
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - JSQSystemSoundPlayer
+
 SPEC CHECKSUMS:
   JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
 
 PODFILE CHECKSUM: 3f0382e2c23645c9a241e363c53e24c7f4812b1e
 
-COCOAPODS: 1.0.0
+COCOAPODS: 1.9.1

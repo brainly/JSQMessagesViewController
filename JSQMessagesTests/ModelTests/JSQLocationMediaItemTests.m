@@ -12,7 +12,7 @@
 
 #import "JSQLocationMediaItem.h"
 
-#import <MobileCoreServices/UTCoreTypes.h>
+#import <CoreServices/UTCoreTypes.h>
 
 @interface JSQLocationMediaItemTests : XCTestCase
 

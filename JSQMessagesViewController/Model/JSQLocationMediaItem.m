@@ -21,7 +21,7 @@
 #import "JSQMessagesMediaPlaceholderView.h"
 #import "JSQMessagesMediaViewBubbleImageMasker.h"
 
-#import <MobileCoreServices/UTCoreTypes.h>
+#import <CoreServices/UTCoreTypes.h>
 
 
 @interface JSQLocationMediaItem ()

@@ -12,7 +12,7 @@
 
 #import "JSQPhotoMediaItem.h"
 
-#import <MobileCoreServices/UTCoreTypes.h>
+#import <CoreServices/UTCoreTypes.h>
 
 @interface JSQPhotoMediaItemTests : XCTestCase
 

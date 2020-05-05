@@ -38,7 +38,7 @@
 #import "UIColor+JSQMessages.h"
 #import "NSBundle+JSQMessages.h"
 
-#import <MobileCoreServices/UTCoreTypes.h>
+#import <CoreServices/UTCoreTypes.h>
 
 #import <objc/runtime.h>
 
